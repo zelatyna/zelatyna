@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zelatyna
-- 👀 I’m interested in data engineering, data science, AI and machine knitting 
+- 👀 I’m interested in data engineering, ML, AI and machine knitting 
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on projects at the edge of AI and arts
 - 📫 How to reach me ...
